@@ -46,6 +46,14 @@ transformation, z-score transformation or even rank percentile transformation.
 
 ![model_test_score.png](img/model_test_score.png)
 
+
+### More EDA Plots
+
+![demand_hour.png](img/demand_hour.png)
+
+![demand_month_temperature.png](img/demand_month_temperature.png)
+
+
 ## Summary
 So in summary I took the data set and created new features from the existing feature space. By doing this alongside some
 hyper-parameter tuning, I managed to improve model performance. To improve the performance even further some new features may helps us - this could be
